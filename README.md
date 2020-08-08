@@ -6,7 +6,7 @@
 
 My name is Maxime, 21 years old and I am a Programmer Analyst / Web Developper, mainly focused on back-end developement based in Québec, CA.
 
-- 🔭 I’m currently working on: Website for some game, comming soon
+- 🔭 I’m currently working on: Website for some game, coming soon
 - 🌱 I’m currently learning: Anything I can 🎈
 - 📫 How to reach me: [Email](mailto:maxgendronsubmission@gmail.com)
 - ⚡ Fun fact: Loving some good lyrical Rap/Hip-hop music
