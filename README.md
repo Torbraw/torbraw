@@ -6,7 +6,7 @@
 
 My name is Maxime, 21 years old and I am a Programmer Analyst / Web Developper, mainly focused on back-end developement based in Québec, CA.
 
-- 🚧 I’m currently working on a third party website for some game
+- 🚧 Currently working on a third party website for some game
 - 🔭 Last finished project: [nestjs-starter-kit](https://github.com/MaxGendron/nestjs-starter-kit)
 - 🌱 Currently learning: Anything I can 🎈
 - 📫 How to reach me: [Email](mailto:maxgendronsubmission@gmail.com)
