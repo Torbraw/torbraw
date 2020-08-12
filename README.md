@@ -8,7 +8,7 @@ My name is Maxime, 21 years old and I am a Programmer Analyst / Web Developper, 
 
 - 🚧 I’m currently working on a third party website for some game
 - 🔭 Last finished project: [nestjs-starter-kit](https://github.com/MaxGendron/nestjs-starter-kit)
-- 🌱 I’m currently learning: Anything I can 🎈
+- 🌱 Currently learning: Anything I can 🎈
 - 📫 How to reach me: [Email](mailto:maxgendronsubmission@gmail.com)
 - ⚡ Fun fact: Loving some good lyrical Rap/Hip-hop music
 
