@@ -22,4 +22,4 @@ My name is Maxime, 21 years old and I am a Programmer Analyst / Web Developper, 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxgendron&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxgendron&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
