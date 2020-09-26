@@ -10,7 +10,7 @@ My name is Maxime, 21 years old and I am a Programmer Analyst / Web Developper, 
 - 🔭 Last finished project: [nestjs-starter-kit](https://github.com/MaxGendron/nestjs-starter-kit)
 - 🌱 Currently learning: Anything I can 🎈
 - 📫 How to reach me: [Email](mailto:maxgendronsubmission@gmail.com)
-- ⚡ Fun fact: Loving some good lyrical Rap/Hip-hop music
+- ⚡ Fun fact: Love some good lyrical Rap/Hip-hop music
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maxgendron&count_private=true&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
