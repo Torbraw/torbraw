@@ -4,7 +4,7 @@
 **MaxGendron/maxgendron** using https://github.com/anuraghazra/github-readme-stats#top-languages-card
 -->
 
-My name is Maxime, 21 years old and I am a Programmer Analyst / Web Developper, mainly focused on back-end developement based in Québec, CA.
+My name is Maxime, 22 years old and I am a Programmer Analyst / Web Developper, mainly focused on back-end developement based in Québec, CA.
 
 - 🚧 Currently working on a third party website for some game
 - 🔭 Last finished project: [nestjs-starter-kit](https://github.com/MaxGendron/nestjs-starter-kit)
