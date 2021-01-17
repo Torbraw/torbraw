@@ -1,4 +1,4 @@
-### Hi there, I'm [Maxime](https://maxgendron.com/#/) 👋
+### Hi there, I'm Maxime 👋
 
 <!--
 **MaxGendron/maxgendron** using https://github.com/anuraghazra/github-readme-stats#top-languages-card
