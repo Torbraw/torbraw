@@ -6,8 +6,8 @@
 
 My name is Maxime, 22 years old and I am a Web Developper, mainly focused on back-end developement based in Québec, CA.
 
-- 🚧 Currently working on a third party website for some game & [a discord bot](https://github.com/MaxGendron/DBot)
-- 🔭 Last finished project: [nestjs-starter-kit](https://github.com/MaxGendron/nestjs-starter-kit)
+- 🚧 Currently working on [a discord bot](https://github.com/MaxGendron/DBot)
+- 🔭 Last finished project: [Dofus Mount Manager](https://www.dofusmountmanager.com/)
 - 🌱 Currently learning: Anything I can 🎈
 - 📫 How to reach me: [Email](mailto:maxgendronsubmission@gmail.com)
 - ⚡ Fun fact: Love some good lyrical Rap/Hip-hop music
