@@ -6,7 +6,7 @@
 
 My name is Maxime, 23 years old and I am a Web Developer, mainly focused on back-end developement based in Québec, CA.
 
-- 🚧 Currently working on [a discord bot](https://github.com/Torbraw/DBot)
+- 🚧 Currently working on a discord bot
 - 🔭 Last finished project: Dofus Mount Manager ([Server](https://github.com/Torbraw/mount-manager-server) & [UI](https://github.com/Torbraw/mount-manager-ui))
 - 🌱 Currently learning: Anything I can 🎈
 - 📫 How to reach me: [Twitter](https://twitter.com/Torbraw)
