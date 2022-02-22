@@ -9,7 +9,7 @@ My name is Maxime, 23 years old and I am a Web Developer, mainly focused on back
 - 🚧 Currently working on a RPG discord [bot](https://torbraw.github.io/dbot-website/)
 - 🔭 Last finished project: Dofus Mount Manager ([Server](https://github.com/Torbraw/mount-manager-server) & [UI](https://github.com/Torbraw/mount-manager-ui))
 - 🌱 Currently learning: Anything I can 🎈
-- 📫 How to reach me: [Twitter](https://twitter.com/Torbraw)
+- 📫 How to reach me: [Twitter](https://twitter.com/Torbraw) / Discord (Torbraw#7689)
 - ⚡ Fun fact: Love some good lyrical Rap/Hip-hop music
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=torbraw&count_private=true&show_icons=true=&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
