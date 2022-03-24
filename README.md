@@ -4,7 +4,8 @@
 **MaxGendron/maxgendron** using https://github.com/anuraghazra/github-readme-stats#top-languages-card
 -->
 
-My name is Maxime, 23 years old and I am a Web Developer, mainly focused on back-end developement based in Québec, CA.
+My name is Maxime, 23 years old and I am a Web Developer, mainly focused on back-end developement based in Québec, CA. <br/>
+Crypto & GameFi enthusiast 🔺
 
 - 🚧 Currently working on a RPG discord [bot](https://torbraw.github.io/dbot-website/)
 - 🔭 Last finished project: Dofus Mount Manager ([Server](https://github.com/Torbraw/mount-manager-server) & [UI](https://github.com/Torbraw/mount-manager-ui))
