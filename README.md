@@ -41,8 +41,6 @@ My name is Maxime, 24 years old and I am a Full Stack developer based in Québec
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-000000?style=for-the-badge&logo=Github&logoColor=white" />
   <img alt="Gitlab CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 </div>
 
 ### Some stats:
