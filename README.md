@@ -16,7 +16,6 @@ My name is Maxime, 24 years old and I am a Full Stack developer based in Québec
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Deno" src="https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=Deno&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-F14C4D?style=for-the-badge&logo=Java&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=CSharp&logoColor=white" />
 </div>
