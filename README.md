@@ -1,14 +1,12 @@
 ## Hi there, I'm Maxime 👋
 
 <!--
-**MaxGendron/maxgendron** using https://github.com/anuraghazra/github-readme-stats#top-languages-card
+**Torbraw/torbraw** using https://github.com/anuraghazra/github-readme-stats#top-languages-card
 -->
 
 My name is Maxime, 24 years old and I am a Full Stack developer based in Québec, CA. <br/>
 
-- 🚧 Currently working on a RPG discord bot. You can visit the site [here](https://dbot-website.vercel.app)
-- 🔭 Last finished project: Dofus Mount Manager ([Server](https://github.com/Torbraw/mount-manager-server) & [UI](https://github.com/Torbraw/mount-manager-ui))
-- 🌱 Currently learning: Anything I can 🎈
+- 🚧 Currently working on a RPG discord [bot](https://dbot-website.vercel.app)
 - 📫 How to reach me: [Twitter](https://twitter.com/Torbraw) / Discord (Torbraw#7689)
 
 ### Some languages and tools I use:
