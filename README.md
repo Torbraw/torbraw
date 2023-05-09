@@ -1,15 +1,15 @@
-## Hi there, I'm Maxime 👋
+## Hi there 👋
 
 <!--
 **Torbraw/torbraw** using https://github.com/anuraghazra/github-readme-stats#top-languages-card
 -->
 
-My name is Maxime, 24 years old and I am a Full Stack developer based in Québec, CA. <br/>
-
-- 🚧 Currently working on a RPG discord [bot](https://dbot-website.vercel.app)
-- 📫 How to reach me: [Twitter](https://twitter.com/Torbraw) / Discord (Torbraw#7689)
+My name is Maxime (or Torbraw online), a 24 years old from Montréal, Québec, CA. <br />
+I am a Full Stack Web developer that enjoys trying new technologies ! <br />
+I am currently working on a RPG discord bot, [Dbot](https://dbot-website.vercel.app), when I have time.
 
 ### Some languages and tools I use:
+
 <div>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
@@ -46,3 +46,8 @@ My name is Maxime, 24 years old and I am a Full Stack developer based in Québec
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torbraw&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=torbraw&count_private=true&show_icons=true=&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+### How to reach me
+- [Twitter](https://twitter.com/Torbraw)
+- [LinkedIn](https://www.linkedin.com/in/mgendron-dev/)
+- Discord (Torbraw#7689)
