@@ -50,4 +50,4 @@ I am currently working on a RPG discord bot, [Dbot](https://dbot-website.vercel.
 ### How to reach me
 - [Twitter](https://twitter.com/Torbraw)
 - [LinkedIn](https://www.linkedin.com/in/mgendron-dev/)
-- Discord (Torbraw#7689)
+- Discord (torbraw)
