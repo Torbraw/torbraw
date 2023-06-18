@@ -6,7 +6,6 @@
 
 My name is Maxime (or Torbraw online), a 24 years old from Montréal, Québec, CA. <br />
 I am a Full Stack Web developer that enjoys trying new technologies ! <br />
-I am currently working on a RPG discord bot, [Dbot](https://dbot-website.vercel.app), when I have time.
 
 ### Some languages and tools I use:
 
