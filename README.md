@@ -42,9 +42,9 @@ I am a Full Stack Web developer that enjoys trying new technologies ! <br />
 
 ### Some stats:
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torbraw&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-five-beige-43.vercel.app/api/top-langs/?username=torbraw&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=torbraw&count_private=true&show_icons=true=&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Torbraw's github stats](https://github-readme-stats-five-beige-43.vercel.app/api?username=torbraw&show_icons=true=&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How to reach me
 - [Twitter](https://twitter.com/Torbraw)
