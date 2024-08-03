@@ -42,6 +42,6 @@ I am a Full Stack Web developer that enjoys trying new technologies ! <br />
 [![Torbraw's github stats](https://github-readme-stats.vercel.app/api?username=torbraw&count_private=true&show_icons=true=&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How to reach me
-- [X](https:/x.com/Torbraw)
+- [X](https://www.x.com/Torbraw)
 - [LinkedIn](https://www.linkedin.com/in/mgendron-dev/)
 - Discord (torbraw)
