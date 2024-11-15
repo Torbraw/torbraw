@@ -4,7 +4,7 @@
 **Torbraw/torbraw** using https://github.com/anuraghazra/github-readme-stats#top-languages-card
 -->
 
-My name is Maxime (or Torbraw online), a 25 years old from Montréal, Québec, CA. <br />
+My name is Maxime (or Torbraw online), a 26 years old from Montréal, Québec, CA. <br />
 I am a Full Stack Web developer that enjoys trying new technologies ! <br />
 
 ### Some languages and tools I use:
