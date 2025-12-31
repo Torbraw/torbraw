@@ -35,12 +35,6 @@ I am a Full Stack Web developer that enjoys trying new technologies ! <br />
   <img alt="Gitlab CI/CD" src="https://img.shields.io/badge/-Gitlab_CI/CD-FC6D26?style=for-the-badge&logo=Gitlab&logoColor=white" />
 </div>
 
-### Some stats:
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torbraw&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Torbraw's github stats](https://github-readme-stats.vercel.app/api?username=torbraw&count_private=true&show_icons=true=&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### How to reach me
 - [X](https://www.x.com/Torbraw)
 - [LinkedIn](https://www.linkedin.com/in/mgendron-dev/)
